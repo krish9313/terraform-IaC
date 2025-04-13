@@ -1,4 +1,5 @@
-<img width="959" alt="nginx" src="https://github.com/user-attachments/assets/2e735844-7009-4d72-85d5-555e7fd9fd41" />
+![Screenshot 2025-04-13 231817](https://github.com/user-attachments/assets/8ce2206e-3979-490f-acaa-486b7061050d)
+
 
 
 
