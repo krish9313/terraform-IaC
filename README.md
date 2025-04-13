@@ -13,7 +13,7 @@ This project uses Terraform to provision a local Docker container running NGINX.
 
 ## Create "main.tf" file
 
-## Run following command
+## Run
 1. Run `terraform init`
 2. Run `terraform plan`
 3. Run `terraform apply`
